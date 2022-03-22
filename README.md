@@ -1,4 +1,4 @@
 - ## 👋 Hi, i'm Guilherme!
-- #### 👀 I’m interested in JavaScript, React and Jest
+- #### 👀 I’m interested in JavaScript, React, Tailwind and a little bit of Jest
 - #### 🌱 I’m currently learning about Web Development
 - #### 📫 You can reach me at <a href="https://www.linkedin.com/in/guihallmann/"> LinkedIn </a>
