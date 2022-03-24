@@ -1,4 +1,3 @@
 - ## 👋 Hi, i'm Guilherme!
-- #### 👀 I’m interested in JavaScript, React, Tailwind and a little bit of Jest
-- #### 🌱 I’m currently learning about Web Development
+- #### 🌱 I’m currently learning about Web Development, more specificly HTML, CSS, JS, React, React Hooks, contextAPI, Redux, RTL, Jest and Tailwind CSS!  
 - #### 📫 You can reach me at <a href="https://www.linkedin.com/in/guihallmann/"> LinkedIn </a>
