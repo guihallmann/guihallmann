@@ -5,5 +5,5 @@
 ## 👨‍💻Backend:
 - ### Docker, MySQL, Node.js, JWT, ORMs(sequelize), Rest/Restful, web and software architecture, Typescript, etc...
 ## 🔀 Others:
-- ### Agile methods, Soft skills (leaderhip, clear communication, organization, teamwork), Intermediate english
+- ### Agile methodologies (Scrum, Kanban), Soft skills (leaderhip, clear communication, organization, teamwork), Intermediate english
 ## 📫 You can reach me at <a href="https://www.linkedin.com/in/guihallmann/"> LinkedIn </a>
