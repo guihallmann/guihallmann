@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme!</h1>
 <h3 align="center">A fullstack jr. developer from Brazil</h3>
 
-- 🔭 I’m currently working on **a kanban board-like project**
+<!-- - 🔭 I’m currently working on **a kanban board-like project** -->
 
 - 🌱 I’m currently learning **Python and algorithms**
 
