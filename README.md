@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on **a kanban board-like project** -->
 
-- 🌱 I’m currently learning **Python and algorithms**
+- 🌱 I’m currently learning more about **React and NodeJS**
 
 - 📫 How to reach me **guilhermehallmann@gmail.com**
 
