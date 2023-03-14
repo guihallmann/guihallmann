@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme!</h1>
 <h3 align="center">A fullstack jr. developer from Brazil</h3>
 
-- 🔭 I’m currently working as a front-end dev in **a marketplace hub project** 
+- 🔭 I’m currently working in **my personal portfolio** 
 
 - 🌱 I’m currently learning more about **Typescript, React and Figma**
 
