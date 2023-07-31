@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **my personal portfolio** 
 
-- 🌱 I’m currently learning more about **Typescript, React and Figma**
+- 🌱 I’m currently learning more about **Typescript, React and Python**
 
 - 📫 How to reach me **guilhermehallmann@gmail.com**
 
