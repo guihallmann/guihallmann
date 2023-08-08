@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning more about **Typescript, Next.js and Python**
 
+- 💻 I'm currently studing Analysis and Systems Development @IFRS
+
 - 📫 How to reach me **guilhermehallmann@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
