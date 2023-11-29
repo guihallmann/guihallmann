@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a **Software Developer Intern** 
 
-- 🌱 I’m currently learning about **Vue 3, PHP, Laravel and InertiaJS**
+- 🌱 Right now i'm learning about **Vue 3, PHP, Laravel and InertiaJS**
 
 - 💻 I'm currently studing Analysis and Systems Development @IFRS
 
