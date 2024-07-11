@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Guilherme!</h1>
 <h3 align="center">A fullstack jr. developer from Brazil</h3>
 
-- 🔭 I’m currently a **Software Developer Intern** 
+- 🔭 I’m currently a **Jr. Software Developer** 
 
-- 🌱 Right now i'm learning about **Vue 3, PHP, Laravel and InertiaJS**
+- 🌱 Right now i'm working with and learning more about **Vue 3, PHP, Laravel and InertiaJS**
 
 - 💻 I'm currently studing Analysis and Systems Development @IFRS
 
