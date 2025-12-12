@@ -7,4 +7,4 @@
 
 - 💻 I'm currently studing Analysis and Systems Development @IFRS Feliz
 
-- 📫 How to reach me **guilhermehallmann@gmail.com**
+- 📫 You can reach me @ **guilhermehallmann@gmail.com**
