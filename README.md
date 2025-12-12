@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently a **Jr. Software Developer** 
 
-- 🌱 Right now i'm working with and learning more about **Vue 3, PHP, Laravel and InertiaJS**
+- 🌱 Right now i'm working with and learning more about **Laravel, PHP, Vue 3, InertiaJS and TypeScript**
 
-- 💻 I'm currently studing Analysis and Systems Development @IFRS
+- 💻 I'm currently studing Analysis and Systems Development @IFRS Feliz
 
 - 📫 How to reach me **guilhermehallmann@gmail.com**
 
